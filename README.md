@@ -2,7 +2,5 @@
 
 Production: https://extractor.hacken.io
 
-## Architecture
-
-<img src="doc/Ext-Architecture.png" width="850">
+<img src="doc/Extractor-Architecture-Extractor1.5.drawio.png" width="850">
 
